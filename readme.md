@@ -7,7 +7,7 @@ Luego de una semana actualizándolo a diario, esperando que él escribiera un te
 
 ## Intro
 ### Calidad de los datos: Renuncia Piñera!
-Si usted vive en Chile y ya vio [el meme de del "director Skinner" con el "Superintendente Chalmers"](docs/photo_2020-04-04 12.37.01.jpeg), puede saltarse este punto. A los demás, intentaré "hacerla corta".
+Si usted vive en Chile y ya vio [el meme de del _director Skinner_ con el _Superintendente Chalmers_](blob/master/docs/photo_2020-04-04%2012.37.01.jpeg), puede saltarse este punto. A los demás, intentaré "hacerla corta".
 
 El coronavirus llegó a Chile en medio de un [estallido social](https://es.wikipedia.org/wiki/Protestas_en_Chile_de_2019-2020). El 18 de octubre pasado, masas de estudiantes evadieron el pago del metro protestando por el alza del pasaje, y varias estaciones fueron incendiadas de manera coordinada. Pronto el gobierno sacó a los milicos de los cuarteles, hubo muertos, heridos y detenidos por miles. Con el pasar de los días, en vez de hacerse más suave, la protesta se endureció. Millones de personas marcharon por las calles durante semanas pidiendo la renuncia del presidente y un cambio radical de sistema político, económico y social. En ese contexto llegó el coronavirus, con la población convulsionada, polarizada y la credibilidad de los burócratas, armados y civiles, por el suelo.
 
