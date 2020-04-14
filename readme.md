@@ -1,7 +1,7 @@
 # Análisis de inflexiones de infectados COVID-19 en Chile
 
 ## Prólogo
-Después de un par de experimentaciones con datos de Kragle sobre el Covid-19, por el 31 de marzo 2020, mi viejo (médico, doctor en salud pública y mateo en general) me presionó para que usara [generative linear models](https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html) para buscar segmentos de tendencias en la curva de contagio Covid-19 en Chile.
+Después de un par de experimentaciones con datos de Kaggle sobre el Covid-19, por el 31 de marzo 2020, mi viejo (médico, doctor en salud pública y mateo en general) me presionó para que usara [generative linear models](https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html) para buscar segmentos de tendencias en la curva de contagio Covid-19 en Chile.
 
 Luego de una semana actualizándolo a diario, esperando que él escribiera un texto de análisis, siento que me corresponde hacerlo a mí, al menos para motivarlo a escribir un contra-análisis. En este punto vale la pena aclararle al lector, que mi padre y yo nos encontramos en posiciones opuestas al aproximarnos al fenómeno de manera subjetiva, yo _alarmista_ y el _no-pasa-nadista_. Sincerando aquello, en este reporte, intentaré restringirme al análisis numérico tanto como me sea posible.
 
