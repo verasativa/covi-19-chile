@@ -1,0 +1,3 @@
+[submodule "covid19-data"]
+	path = covid19-data
+	url = git@github.com:jorgeperezrojas/covid19-data.git
